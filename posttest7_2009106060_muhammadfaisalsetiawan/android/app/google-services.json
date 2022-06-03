@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554516641311",
+    "project_id": "pemograman-mobile-cba5d",
+    "storage_bucket": "pemograman-mobile-cba5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554516641311:android:8246a31451c817cf0e072a",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_2009106060_muhammadfaisalsetiawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554516641311-i0nbsfaue502e9rkn3ijqsvf35akah8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImPqUUfxueVnAUWfrrrXId-qqABENDM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554516641311-i0nbsfaue502e9rkn3ijqsvf35akah8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
